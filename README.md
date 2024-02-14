@@ -25,6 +25,10 @@
 
 <h2 align='center' > MY PROJECTS </h2>
 <div align='center'>
+
+![Lax 2.0 Gif](https://github.com/MaryBobyreva/browser-statistics/blob/main/browser%20statistics.png)
+
+
   
 ![Lax 2.0 Gif](https://github.com/MaryBobyreva/why-so-serious-/blob/main/why%20so%20serious.png)
 
